@@ -2,7 +2,7 @@
 
 ThreeJs animation exercise inspired by the animation published in [Daily Art](https://sasj.tumblr.com/post/149806297050/geometric-animations-160901).
 
-![geomtric animation 2](https://github.com/ivaneffable/geometric-animation-1/blob/master/geometric-animation-2.gif)
+![geomtric animation 2](https://github.com/ivaneffable/geometric-animation-2/blob/master/geometric-animation-2.gif)
 
 ## Installation
 
